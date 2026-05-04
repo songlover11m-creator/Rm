@@ -1,0 +1,6 @@
+{
+  "name": "CircleChat",
+  "description": "A private, real-time group chat for a small circle of friends with secret password protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
